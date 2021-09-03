@@ -1,5 +1,5 @@
 - 👋 Hi! I’m @mpmachuca
-- 👩‍💻 I'm a sophomore in college majoring in Computer Science
+- 👩‍💻 I'm a college student majoring in Computer Science
 - 👩 I'm a girl #womenpower
 - 🇨🇴 1/2 Colombian
 - 🇸🇻 1/2 Salvadoran 
