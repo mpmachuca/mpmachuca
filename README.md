@@ -3,8 +3,9 @@
 - 👩 I'm a girl #womenpower
 - 🇨🇴 1/2 Colombian
 - 🇸🇻 1/2 Salvadoran 
-- 👀 I’m learning to code with the goal of building software programs one day!
-- 🌱 I’m currently learning the following languages: JavaScript and Python
+- 👨‍👩‍👧‍👦 Family is E.V.E.R.Y.T.H.I.N.G
+- 👀 Learning to code with the goal of building software programs one day!
+- 🌱 Currently learning the following languages: JavaScript and Python
 - 🤾‍♀️ In my downtime I play Volleyball (not a pro just yet!)
 - 📫 Reach me by email: m_machuca@outlook.com & let's connect!
 
