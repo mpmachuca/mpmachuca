@@ -8,8 +8,8 @@
 - 🌐 Turquiose is my favorite color
 - 📖 I love to read on my down time 
 - 👩🏽‍🏫 I tutor because I believe in the power of education
-- 👀 Learning to code with the goal of building software programs one day!
-- 🌱 Currently learning the following languages: JavaScript and Python
+- 👀 Learning to code with the goal of building ML programs one day!
+- 🌱 Currently learning the following languages: Java and Python
 - 🤾‍♀️ In my downtime I play Volleyball (not a pro just yet!)
 - 📫 Reach me by email: m_machuca@outlook.com & let's connect!
 
